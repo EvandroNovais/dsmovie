@@ -1,4 +1,4 @@
-# Project-dsmovies (Sistema de avaliação de filmes)
+# Project-dsmovies - Trilha Profissonal (Sistema de avaliação de filmes)
 
 ## Projeto desenvolvido na semana Spring React 8.0 ministrada por DevSuperior, Professor *Nelio Alves*.
 
